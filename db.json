@@ -3,31 +3,31 @@
   {
     "id": 1,
     "movie_name": "Mulan",
-    "image": "..img/mulan.jpg"
+    "image": "img/mulan.jpg"
   },
   {
     "id": 2,
     "movie_name": "Pengabdi Setan",
-    "image": "pengabdisetan.jpg"
+    "image": "img/pengabdisetan.jpg"
   },
   {
     "id": 3,
     "movie_name": "The Sand Man",
-    "image": "thesandman.jpg"
+    "image": "img/thesandman.jpg"
   },
   {
     "id": 4,
     "movie_name": "Peaky Blinders",
-    "image": "peakyblinders.jpg"
+    "image": "img/peakyblinders.jpg"
   },
   {
     "id": 5,
     "movie_name": "Doctor Strange in the Multiverse of Madness",
-    "image": "doctorstrange.jpg"
+    "image": "img/doctorstrange.jpg"
   },
   {
     "id": 6,
     "movie_name": "Spider-Man: No Way Home",
-    "image": "spiderman.jpg"
+    "image": "img/spiderman.jpg"
   }
 ]}
