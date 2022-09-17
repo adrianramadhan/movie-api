@@ -8,26 +8,26 @@
   {
     "id": 2,
     "movie_name": "Pengabdi Setan",
-    "image": "img/pengabdisetan.jpg"
+    "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xTWgncjZOrMmSjaEwA3DLOxaqf0.jpg"
   },
   {
     "id": 3,
     "movie_name": "The Sand Man",
-    "image": "img/thesandman.jpg"
+    "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/q54qEgagGOYCq5D1903eBVMNkbo.jpg"
   },
   {
     "id": 4,
     "movie_name": "Peaky Blinders",
-    "image": "img/peakyblinders.jpg"
+    "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
   },
   {
     "id": 5,
     "movie_name": "Doctor Strange in the Multiverse of Madness",
-    "image": "img/doctorstrange.jpg"
+    "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg"
   },
   {
     "id": 6,
     "movie_name": "Spider-Man: No Way Home",
-    "image": "img/spiderman.jpg"
+    "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg"
   }
 ]}
