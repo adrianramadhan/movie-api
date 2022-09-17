@@ -2,32 +2,44 @@
   "film": [
   {
     "id": 1,
-    "movie_name": "Mulan",
-    "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg"
+    "name": "Mulan",
+    "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+    "date": "04/09/2020",
+    "description": "When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential."
   },
   {
     "id": 2,
-    "movie_name": "Pengabdi Setan",
+    "name": "Pengabdi Setan",
     "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xTWgncjZOrMmSjaEwA3DLOxaqf0.jpg"
+    "date": "28/09/2017"
+    "description": "Setelah Rini ditinggal mati ibunya, ada sesuatu peristiwa yang terus menganggu keluarga mereka."
   },
   {
     "id": 3,
-    "movie_name": "The Sand Man",
+    "name": "The Sand Man",
     "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/q54qEgagGOYCq5D1903eBVMNkbo.jpg"
+    "date": "05/07/2022"
+    "description": "After years of imprisonment, Morpheus — the King of Dreams — embarks on a journey across worlds to find what was stolen from him and restore his power"
   },
   {
     "id": 4,
-    "movie_name": "Peaky Blinders",
+    "name": "Peaky Blinders",
     "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
+    "date": "12/09/2013"
+    "description": "A gangster family epic is set in Birmingham, England in 1919 and centers on a gang who sew razor blades on the tops of their hats, and their fierce boss Tommy Shelby, who intend to rise to the top of the world."
   },
   {
     "id": 5,
-    "movie_name": "Doctor Strange in the Multiverse of Madness",
+    "name": "Doctor Strange in the Multiverse of Madness",
     "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg"
+    "date": "06/05/2022"
+    "description": "Synopsis Doctor Strange in the Multiverse of Madness tells the story of Stephen Strange who has a guest from another universe, namely America Chavez. America's presence in the Strange universe in the main MCU universe is to ask the superhero for help"
   },
   {
     "id": 6,
-    "movie_name": "Spider-Man: No Way Home",
+    "name": "Spider-Man: No Way Home",
     "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg"
+    "date": "31/08/2022"
+    "description": "Peter Parker had a big problem. This happened after his identity as Spiderman was revealed. With Tony Stark gone, Peter Parker must ask Doctor Strange for help so that everyone can forget his identity as a spider man"
   }
 ]}
