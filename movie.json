@@ -10,36 +10,36 @@
   {
     "id": 2,
     "name": "Pengabdi Setan",
-    "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xTWgncjZOrMmSjaEwA3DLOxaqf0.jpg"
-    "date": "28/09/2017"
+    "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/xTWgncjZOrMmSjaEwA3DLOxaqf0.jpg",
+    "date": "28/09/2017",
     "description": "Setelah Rini ditinggal mati ibunya, ada sesuatu peristiwa yang terus menganggu keluarga mereka."
   },
   {
     "id": 3,
     "name": "The Sand Man",
-    "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/q54qEgagGOYCq5D1903eBVMNkbo.jpg"
-    "date": "05/07/2022"
+    "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/q54qEgagGOYCq5D1903eBVMNkbo.jpg",
+    "date": "05/07/2022",
     "description": "After years of imprisonment, Morpheus — the King of Dreams — embarks on a journey across worlds to find what was stolen from him and restore his power"
   },
   {
     "id": 4,
     "name": "Peaky Blinders",
-    "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
-    "date": "12/09/2013"
+    "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+    "date": "12/09/2013",
     "description": "A gangster family epic is set in Birmingham, England in 1919 and centers on a gang who sew razor blades on the tops of their hats, and their fierce boss Tommy Shelby, who intend to rise to the top of the world."
   },
   {
     "id": 5,
     "name": "Doctor Strange in the Multiverse of Madness",
-    "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg"
-    "date": "06/05/2022"
+    "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+    "date": "06/05/2022",
     "description": "Synopsis Doctor Strange in the Multiverse of Madness tells the story of Stephen Strange who has a guest from another universe, namely America Chavez. America's presence in the Strange universe in the main MCU universe is to ask the superhero for help"
   },
   {
     "id": 6,
     "name": "Spider-Man: No Way Home",
-    "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg"
-    "date": "31/08/2022"
+    "image": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",
+    "date": "31/08/2022",
     "description": "Peter Parker had a big problem. This happened after his identity as Spiderman was revealed. With Tony Stark gone, Peter Parker must ask Doctor Strange for help so that everyone can forget his identity as a spider man"
   }
 ]}
